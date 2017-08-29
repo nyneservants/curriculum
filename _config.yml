@@ -8,7 +8,7 @@ permalink:           pretty
 title:               NYNE Servants' Curriculum
 tagline:             'NYNE Servants Curriculum'
 description:         Curriculum for (pre-) servants of the New York and New England Diocese of the Coptic Orthodox Church
-url:                 
+url:                 https://nyneservants.github.io
 baseurl:             '/curriculum/'
 paginate:            5
 
